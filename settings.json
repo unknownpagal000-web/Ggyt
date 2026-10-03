@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ultrasmp.aternos.me",
-    "port": solocloud.host,
+    "port": 20164,
     "version": "1.20.1",
     "try-creative": false
   },
