@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "ultrasmp.aternos.me",
+    "port": solocloud.host,
     "version": "1.20.1",
     "try-creative": false
   },
